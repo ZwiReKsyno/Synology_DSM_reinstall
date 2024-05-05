@@ -1,0 +1,16 @@
+v1.2.4
+- Now shows script version.
+- Hard coded /usr/syno/bin/ for Synology commands (to prevent $PATH issues).
+
+v1.2.3
+- Check if running as root
+- Bug fix
+
+v1.1.2
+- Prevent DSM auto-updating to "Update #" during reinstall
+
+v1.0.1
+- Minor bug fix
+
+v1.0.0
+- First release
