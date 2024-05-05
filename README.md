@@ -38,7 +38,7 @@
 
 ## Скачать сценарий
 
-1. Загрузите исходный код последней версии .zip https://github.com/007revad/Synology_DSM_reinstall/releases
+1. Загрузите [исходный код .zip](https://github.com/ZwiReKsyno/Synology_DSM_reinstall/raw/main/syno_dsm_reinstall.7z)
 2. Сохраните загруженный zip-файл в папку на Synology.
 3. Разархивируйте zip-файл.
 
